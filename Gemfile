@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'cane'
+gem 'reek'
+gem 'rake'
+gem 'minitest'
+gem 'mrspec'
+gem 'pry'
+gem 'simplecov'
+gem 'byebug'
+gem 'sinatra', require: 'sinatra/base'
+gem 'shotgun'
